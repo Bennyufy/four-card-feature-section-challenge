@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Product preview card component,mobile view](./design/mobile-design.jpg)
+![Design preview for the Product preview card component,mobile view](./design/mobile-design.PNG)
 
 ![Design preview for the Product preview card component,desktop view](./design/desktop-design.jpg)
 
